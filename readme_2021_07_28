@@ -1,0 +1,3 @@
+Notes for Arash:
+  1. "ip_repo" folder is manually created. You should copy the ips, inside it, to your personal ip folder. The self-heating ip is exactly the same one you created some time ago. So, you may or may not copy that ip.
+  2. parvez_ro_exp_4 is the vivado project folder.
